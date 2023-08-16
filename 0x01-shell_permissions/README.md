@@ -1,1 +1,1 @@
-each script
+the readme
